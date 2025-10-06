@@ -20,7 +20,7 @@ Prosta aplikacja do tworzenia i zarządzania notatkami w przeglądarce. Notatki 
 ## Jak używać
 1. Sklonuj repozytorium:
    ```bash
-   git clone <URL_REPOZYTORIUM>
+   git clone github.com/idkowiaak/noteApp
    ```
 2. Otwórz plik index.html w przeglądarce
 
