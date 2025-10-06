@@ -5,7 +5,7 @@ Prosta aplikacja do tworzenia i zarządzania notatkami w przeglądarce. Notatki 
 ---
 
 ## Demo
-![Note App Demo](https://note-app-project-1.netlify.app/)  
+[Note App Demo](https://note-app-project-1.netlify.app/)  
 
 ---
 
